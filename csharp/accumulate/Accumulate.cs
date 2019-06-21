@@ -10,6 +10,4 @@ public static class AccumulateExtensions
             yield return func(item);
         }
     }
-
-
 }
